@@ -1,5 +1,5 @@
 # Template Assetto Corsa Python App
-## A Template folder and script for Assetto Corsa Python app
+## A Template folder and script for Assetto Corsa Python app (you can modify to your liking)
 
 
 
